@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/adarsh-technocrat/watch-anime-streamlink-package.git"
   },
-  "keywords": [],
+  "keywords": [
+    "chia-anime",
+    "streamlink-plugins"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
