@@ -1,1 +1,1 @@
-# watch-anime-streamlink-package
+# Watch-anime-streamlink-package
